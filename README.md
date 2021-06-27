@@ -3,10 +3,12 @@ This is my (pitust's) blog or whatever.
 
 ## Table of contents:
  - [How to into bootloaders?](https://pitust.dev/how-to-into-bootloader)
- - (TODO) [How to into bios development?](/)
- - (TODO) [Please don't copy paste tutorials, and more info on following tutorials](/)
+ - [Please don't copy paste tutorials, and more info on following tutorials](/pls_no_copy_paste_tutorials)
 
 Note: TODO means i think i want to write it, maybe, sometime soon™
+
+### BIOS Development series
+ - [Step 1 - Making a BIOS Bootblock](/biosdev/step1.md)
 
 ## My projects
 I made stuff in a lot of languages, doing a lot of things, over a long time period. Here are some of my favorite ones:
@@ -16,6 +18,3 @@ I made stuff in a lot of languages, doing a lot of things, over a long time peri
  - [WeKernel](https://github.com/pitust/wekernel) is a neat kernel written in AssemblyScript, compiled to natice, booted with limine.
  - [diodeOS](https://github.com/pitust/diode) is an older D os.
  - [stivalebios](https://github.com/pitust/stivalebios) is a trash BIOS that is at least 10000x better than @atieP's [atiebios](https://github.com/atieP/atiebios)
-
-## Blog posts
-idk if i will write them maybe hmm.

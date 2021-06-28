@@ -31,6 +31,8 @@ To confirm it's working, you can use `info registers` and confirm that `CS` and 
 ## What's next?
 In the next part we will get basic I/O and enter protected mode.
 
+[next](/biosdev/step2)
+
 <script src="https://giscus.app/client.js"
         data-repo="pitust/pitust.dev"
         data-repo-id="MDEwOlJlcG9zaXRvcnkzNzI5Mjc0MzE="

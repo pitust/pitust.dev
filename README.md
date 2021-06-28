@@ -8,7 +8,8 @@ This is my (pitust's) blog or whatever.
 Note: TODO means i think i want to write it, maybe, sometime soon™
 
 ### BIOS Development series
- - [Step 1 - Making a BIOS Bootblock](/biosdev/step1.md)
+ - [Step 1 - Making a BIOS Bootblock](/biosdev/step1)
+ - [Step 2 - Protected mode and the first driver](/biosdev/step2)
 
 ## My projects
 I made stuff in a lot of languages, doing a lot of things, over a long time period. Here are some of my favorite ones:

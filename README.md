@@ -11,6 +11,9 @@ Note: TODO means i think i want to write it, maybe, sometime soon™
  - [Step 1 - Making a BIOS Bootblock](/biosdev/step1)
  - [Step 2 - Protected mode and the first driver](/biosdev/step2)
 
+## Tampermoneky userscripts:
+ - ctyme adblocker (removes ads on www.ctyme.com/intr): [link](ctyme-adblock.user.js)
+
 ## My projects
 I made stuff in a lot of languages, doing a lot of things, over a long time period. Here are some of my favorite ones:
  - [Oh es](https://github.com/pitust/ohes_root), an OS written in rust (archived)

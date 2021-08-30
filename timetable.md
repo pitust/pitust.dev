@@ -8,7 +8,7 @@
 | German          | Science (Bio) | Geography      | Art |
 | SPHE            | Science (Bio) | English        | Art |
 | ~~~  Break  ~~~ | ~~~ Break ~~~ | ~~~ Break ~~~  | Maths (sek1 only) |
-| English | GL/Geschichte | German                 |  |
-| History | Maths (sek1) | GL/Geschichte           | |
-| Art | German | CSPE                              | |
-| Art | Maths | History                            | |
+| English | GL/Geschichte | German                 |
+| History | Maths (sek1) | GL/Geschichte           |
+| Art | German | CSPE                              |
+| Art | Maths | History                            |

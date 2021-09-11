@@ -13,6 +13,7 @@ Note: TODO means i think i want to write it, maybe, sometime soon™
 
 ## Tampermoneky userscripts:
  - ctyme adblocker (removes ads on www.ctyme.com/intr): [link](ctyme-adblock.user.js)
+ - comic sans everywhere (have comic sans EVERYWHERE): [link](comic-sans-everywhere.user.js)
 
 ## My projects
 I made stuff in a lot of languages, doing a lot of things, over a long time period. Here are some of my favorite ones:

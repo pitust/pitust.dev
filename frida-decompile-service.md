@@ -1,5 +1,5 @@
 # frida-decompile service
-Are you a bot developer and/or someone who wants a frida-decompile in their <thing>? If the answer is yes, then the frida-decompile service is for you! DM pitust#8711 to learn more. If you just want to look at the output, see [the page](https://pitust.dev/frida-decompile-service)
+Are you a bot developer and/or someone who wants a frida-decompile in their <thing>? If the answer is yes, then the frida-decompile service is for you! DM pitust#8711 to learn more.
 
 ## API usage
 ```

@@ -10,5 +10,5 @@
 | ~~~  Break  ~~~     | ~~~ Break ~~~          | ~~~ Break ~~~        | ~~~ Break ~~~        | N22 Maths (sek1 only) |
 | N26 English         | N22 GL/Geschichte      | N22 German           | N26 PE               |                       |
 | N26 History         | N22 Maths (sek1)       | N22 GL/Geschichte    | N26 PE               |                       |
-| S14 Art             | N22 German             | N26 CSPE             | N22 Maths            |                       |
-| S14 Art             | N 22Maths              | N26 History          | N22 German           |                       |
+| S14 Art             | N22 Maths (sek1)       | N26 CSPE             | N22 Maths            |                       |
+| S14 Art             | N22 German             | N26 History          | N22 German           |                       |

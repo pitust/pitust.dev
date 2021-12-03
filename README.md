@@ -18,6 +18,9 @@ Note: TODO means i think i want to write it, maybe, sometime soon™
  - ctyme adblocker (removes ads on www.ctyme.com/intr): [link](ctyme-adblock.user.js)
  - comic sans everywhere (have comic sans EVERYWHERE): [link](comic-sans-everywhere.user.js)
 
+## Random unimportant shit that i just want to be indexable
+[pls dont click](./lmao.md)
+
 ## My projects
 I made stuff in a lot of languages, doing a lot of things, over a long time period. Here are some of my favorite ones:
  - [Oh es](https://github.com/pitust/ohes_root), an OS written in rust (archived)

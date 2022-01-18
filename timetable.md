@@ -12,3 +12,6 @@
 | N26 History         | N22 Maths (sek1)       | N22 GL/Geschichte    | N26 PE               |                       |
 | S14 Art             | N22 Maths (sek1)       | N26 CSPE             | N22 Maths            |                       |
 | S14 Art             | N22 German             | N26 History          | N22 German           |                       |
+
+# study shits
+History/Business/Science/Geography

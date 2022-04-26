@@ -14,6 +14,3 @@
 | S14 Art             | S13 German             | N23 History          | S13 German           |                       |
 
 MSK => music room
-
-# study shits
-History/Business/Science/Geography

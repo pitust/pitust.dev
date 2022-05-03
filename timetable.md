@@ -9,8 +9,8 @@
 | E21 SPHE            | LABG Science (Bio)     | N16 English          | LABG Science (Chem.) | S14 Art               |
 | ~~~  Break  ~~~     | ~~~ Break ~~~          | ~~~ Break ~~~        | ~~~ Break ~~~        | S13 Maths (sek1 only) |
 | N16 English         | N21 GL/Geschichte      | E23 German           | E21 PE               |                       |
-| N23 History         | S14 Maths (sek1)       | E23 GL/Geschichte    | E21 PE               |                       |
-| S14 Art             | S14 Maths (sek1)       | N12 CSPE             | S13 Maths            |                       |
+| N23 History         | LABG Maths (sek1)      | E23 GL/Geschichte    | E21 PE               |                       |
+| S14 Art             | LABH Maths (sek1)      | N12 CSPE             | S13 Maths            |                       |
 | S14 Art             | S13 German             | N23 History          | S13 German           |                       |
 
 MSK => music room

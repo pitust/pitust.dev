@@ -2,7 +2,7 @@
 This is my (pitust's) blog or whatever.
 
 ## frida-decompile service
-Are you a bot developer and/or someone who wants a frida-decompile in their <thing>? If the answer is yes, then the frida-decompile service is for you! DM pitust#8711 to learn more. If you just want to look at the output, see [The page](https://pitust.dev/frida-decompile-service)
+Are you a bot developer and/or someone who wants a frida-decompile in their <thing>? If the answer is yes, then the frida-decompile service is for you! DM pitust#8711 to learn more. If you just want to look at the output, see [The page](/frida-decompile-service).
 
 ## Table of contents:
  - [How to into bootloaders?](https://pitust.dev/how-to-into-bootloader)

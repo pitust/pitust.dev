@@ -2,10 +2,7 @@
 Are you a bot developer and/or someone who wants a frida-decompile in their <thing>? If the answer is yes, then the frida-decompile service is for you! DM pitust#8711 to learn more.
 
 ## API usage
-```
-$ curl -X POST --data-binary @code.bin -H 'X-Frida-Decompile-JWT: YOUR TOKEN GOES HERE'  https://frida-decompile-service.pitust.dev/frida-decompile
-```
-In goes frida-compiled blob, out goes decompiled js. There is also a debug endpoint, /frida-decompile/debug.
+The API specification is available [here](https://hackmd.io/@pitust/decompiler-api).
 
 ## API example code
 ```python
@@ -24,27 +21,46 @@ def decompile_debug(data: bytes) -> str:
 ## Examples
 
 ### Hello, world
-In:
 ```javascript
-console.log("Hello, world!")
-```
-Out:
-```javascript
-loc0 = console.log("Hello, world!");
-return loc0;
+// Input
+console.log('Hello, world!')
+// Output
+console.log("Hello, world!");
 ```
 
 ### Numbers and stuff
-In:
 ```javascript
+// Input
 const a = 3
 const b = 4
 console.log(a, b, a + b)
-```
-Out:
-```javascript
+// Output
 a = 3
 b = 4
-loc0 = console.log(a, b, a + b);
-return loc0;
+console.log(a, b, a + b);
+// Experimental mode output
+let a = 3
+let b = 4
+console.log(a, b, a + b)
+```
+
+### More complex exmaples
+```javascript
+// Input
+let input = ask_user()
+if (input.length == 5 && input.slice(0, 3) + input[4] == 'pas!' && input[3] == 's') {
+    console.log('correct password!')
+} else {
+    console.log('incorrect password!')
+}
+// Experimental mode output
+let input = ask_user()
+if (!input.length == 5) goto(L102)
+if (!input.slice(0, 3) + input[4] == 'pas!') goto(L102)
+if (!input[3] == 's') goto(L102)
+console.log('correct password!')
+goto(L121)
+L102:
+console.log('incorrect password!')
+L121:
 ```
